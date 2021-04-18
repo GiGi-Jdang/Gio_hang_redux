@@ -1,0 +1,9 @@
+app
+    header
+    propducts
+        propduct
+        messenger
+        cart
+            cartItem
+            totalPrice
+    footer    
